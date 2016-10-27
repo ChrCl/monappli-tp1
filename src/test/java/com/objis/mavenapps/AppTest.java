@@ -25,8 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
-    	//fail("Test commit hook");
-        return new TestSuite( AppTest.class );
+    	return new TestSuite( AppTest.class );
     }
 
     /**
